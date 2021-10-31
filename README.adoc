@@ -1,4 +1,6 @@
-= Variscite BSP Platform (based on NXP Yocto BSP)
+= Sparton BSP Platform (based on NXP Yocto BSP)
+
+Note that we are fsl-sumo branch by default. 
 
 To get the BSP you need to have `repo` installed and use it as:
 
